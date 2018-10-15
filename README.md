@@ -1,4 +1,4 @@
-# clicky_game
+# Friends Clicky Game
 React Memory Game
 
 Friends Clicky Game is a memory game, which consists on saving the user’s clicks of different Friends cards. 
