@@ -1,6 +1,7 @@
 import React from "react";
 import "./FriendCard.css";
 
+//Props to each id friend's card to handleClick function. 
 const FriendCard = props => (
   <div 
     className="card" 
